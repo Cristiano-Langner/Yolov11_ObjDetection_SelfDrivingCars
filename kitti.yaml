@@ -8,6 +8,6 @@ names:
 - Tram
 - Person_sitting
 nc: 8
-train: /kaggle/working/train
-val: /kaggle/working/val 
-test: /kaggle/working/test
+train: \kaggle\working\train
+val: \kaggle\working\val 
+test: \kaggle\working\test
