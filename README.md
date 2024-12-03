@@ -10,4 +10,8 @@
 - objdetec-4-autonomousdriving.ipynb: the main notebook where the final models were trained
 - yolo*.pt: default models downloaded from Ultralytics website
 - results_yolo11m_custom_dataset.zip: zip file containing the results on our custom dataset, metrics and the trained models. 
- 
+
+
+### See results obtained in our dataset (test data) below:
+
+![val_batch0_pred](https://github.com/user-attachments/assets/9a4634ec-6046-412e-8658-8e867d9551fd)
