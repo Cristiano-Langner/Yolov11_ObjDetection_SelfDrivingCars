@@ -185,6 +185,8 @@ results
 
 Obj_Detection_AutonomousDriving-1/
 
+yolo11m_finetunned/
+
 video_file.mp4
 
 output_video.mp4
