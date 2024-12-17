@@ -9,8 +9,9 @@
 - utils: folder to store the scripts that were useful to us, such as extracting random frames from videos to construct our dataset
 - objdetec-4-autonomousdriving.ipynb: the main notebook where the final models were trained
 - yolo*.pt: default models downloaded from Ultralytics website
-- results_yolo11m_custom_dataset.zip: zip file containing the results on our custom dataset, metrics and the trained models. 
-
+- results_yolo11m_custom_dataset.zip: zip file containing the results on our custom dataset, metrics and the trained models (weights, found at /train/weights/). 
+- RealTime_Object_Detection.ipynb: notebook to run real-time inference
+- pdfs_report_n_poster: folder containing the report and the poster pdfs
 
 ### See results obtained in our dataset (test data) below:
 
